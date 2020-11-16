@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 venv
 face_marking_model
+backup
+model
